@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/startmenu">
+        <file>sottisch.txt</file>
+        <file>wbridge.txt</file>
+        <file>clip_image002.gif</file>
+        <file>clip_image004.gif</file>
+        <file>clip_image006.gif</file>
+        <file>image042.gif</file>
+        <file>image089.gif</file>
+        <file>image093.gif</file>
+        <file>image095.gif</file>
+        <file>image097.gif</file>
+        <file>image099.gif</file>
+        <file>image101.gif</file>
+        <file>bridgelab — копия.png</file>
+        <file>bridgelab.png</file>
+        <file>dialarrow.png</file>
+        <file>example.png</file>
+        <file>lab.png</file>
+        <file>reostat.png</file>
+        <file>sottischeme.png</file>
+        <file>Wheatstonebridge.png</file>
+    </qresource>
+</RCC>
